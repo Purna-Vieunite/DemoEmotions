@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+Pillow==10.1.0
+transformers==4.40.0
+sentencepiece==0.1.99
+requests
+pandas
+numpy
+scikit-learn
+opencv-python
+opencv-contrib-python
+openai-clip
+gradio==5.8.0
